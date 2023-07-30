@@ -1,0 +1,75 @@
+# Automate The Boring Stuff
+
+## Practice Projects
+Completed Automate The Boring Stuff Practice Projects from the Book
+
+### Completed Practice Projects
+- [ ] Chapter 3 - Functions
+    - [ ] The Collatz Sequence
+    - [ ] Input Validation (Addition to The Collatz Sequence Project)
+- [ ] Chapter 4 - Lists
+    - [ ] Comma Code
+    - [ ] Coin Flip Streaks
+    - [ ] Character Picture Grid
+- [ ] Chapter 5 - Dictionaries and Structuring Data
+    - [ ] Chess Dictionary Validator
+    - [ ] Fantasy Game Inventory 
+    - [ ] List to Dictionary Function for Fantasy Game Inventory (Addition to Fantasy Game Inventory Project)
+- [ ] Chapter 6 - Manipulating Strings
+    - [ ] Table Printer
+    - [ ] Zombie Dice Bots
+- [ ] Chapter 7 - Pattern Matching with Regular Expressions
+    - [ ] Date Detection
+    - [ ] Strong Password Detection
+    - [ ] Regex Version of the strip() Method
+- [ ] Chapter 8 - Input Validation
+    - [ ] Sandwich Maker
+    - [ ] Write Your Own Multiplication Quiz
+- [ ] Chapter 9 - Reading and Writing Files
+    - [ ] Extending the Multi-Clipboard
+    - [ ] Mad Libs
+    - [ ] Regex Search
+- [ ] Chapter 10 - Organising Files
+    - [ ] Selective Copy
+    - [ ] Deleting Unneeded Files
+    - [ ] Filling in the Gaps
+- [ ] Chapter 11 - Debugging
+    - [ ] Debugging Coin Toss
+- [ ] Chapter 12 - Web Scraping
+    - [ ] Command Line Emailer
+    - [ ] Image Site Downloader
+    - [ ] 2048
+    - [ ] Link Verification
+- [ ] Chapter 13 - Working with Excel Spreadsheets
+    - [ ] Multiplication Table Maker
+    - [ ] Blank Row Inserter
+    - [ ] Spreadsheet Cell Inverter
+    - [ ] Text Files to Spreadsheet
+    - [ ] Spreadsheet to Text Files
+- [ ] Chapter 14 - Working with Google Sheets
+    - [ ] Downloading Google Forms Data
+    - [ ] Converting Spreadsheets to Other Formats
+    - [ ] Finding Mistakes in a Spreadsheet
+- [ ] Chapter 15 - Working with PDF and Word Documents
+    - [ ] PDF Paranoia
+    - [ ] Custom Invitations as Word Documents
+    - [ ] Brute-Force PDF Password Breaker
+- [ ] Chapter 16 - Working with CSV Files and JSON Data
+    - [ ] Excel-to-CSV Converter
+- [ ] Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs
+    - [ ] Prettified Stopwatch
+    - [ ] Scheduled Web Comic Downloader
+- [ ] Chapter 18 - Sending Email and Text Messages
+    - [ ] Random Chore Assignment Emailer
+    - [ ] Umbrella Reminder
+    - [ ] Auto Unsubscriber
+    - [ ] Controlling Your Computer Through Email
+- [ ] Chapter 19 - Manipulating Images
+    - [ ] Extending and Fixing the Chapter Project Programs
+    - [ ] Identifying Photo Folders on the Hard Drive
+    - [ ] Custom Seating Cards
+- [ ] Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation
+    - [ ] Looking Busy
+    - [ ] Using the Clipboard to Read a Text Field
+    - [ ] Instant Messenger Bot
+    - [ ] Game-Playing Bot Tutorial
