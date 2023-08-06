@@ -4,13 +4,13 @@
 Completed Automate The Boring Stuff Practice Projects from the Book
 
 ### Completed Practice Projects
-- [ ] Chapter 3 - Functions
-    - [ ] The Collatz Sequence
-    - [ ] Input Validation (Addition to The Collatz Sequence Project)
-- [ ] Chapter 4 - Lists
-    - [ ] Comma Code
-    - [ ] Coin Flip Streaks
-    - [ ] Character Picture Grid
+- [x] Chapter 3 - Functions
+    - [x] The Collatz Sequence
+    - [x] Input Validation (Addition to The Collatz Sequence Project)
+- [x] Chapter 4 - Lists
+    - [x] Comma Code
+    - [x] Coin Flip Streaks
+    - [x] Character Picture Grid
 - [ ] Chapter 5 - Dictionaries and Structuring Data
     - [ ] Chess Dictionary Validator
     - [ ] Fantasy Game Inventory 
