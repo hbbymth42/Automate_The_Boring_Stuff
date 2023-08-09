@@ -11,10 +11,10 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Comma Code
     - [x] Coin Flip Streaks
     - [x] Character Picture Grid
-- [ ] Chapter 5 - Dictionaries and Structuring Data
-    - [ ] Chess Dictionary Validator
-    - [ ] Fantasy Game Inventory 
-    - [ ] List to Dictionary Function for Fantasy Game Inventory (Addition to Fantasy Game Inventory Project)
+- [x] Chapter 5 - Dictionaries and Structuring Data
+    - [x] Chess Dictionary Validator
+    - [x] Fantasy Game Inventory 
+    - [x] List to Dictionary Function for Fantasy Game Inventory (Addition to Fantasy Game Inventory Project)
 - [ ] Chapter 6 - Manipulating Strings
     - [ ] Table Printer
     - [ ] Zombie Dice Bots
