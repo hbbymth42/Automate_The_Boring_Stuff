@@ -15,9 +15,9 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Chess Dictionary Validator
     - [x] Fantasy Game Inventory 
     - [x] List to Dictionary Function for Fantasy Game Inventory (Addition to Fantasy Game Inventory Project)
-- [ ] Chapter 6 - Manipulating Strings
-    - [ ] Table Printer
-    - [ ] Zombie Dice Bots
+- [x] Chapter 6 - Manipulating Strings
+    - [x] Table Printer
+    - [x] Zombie Dice Bots
 - [ ] Chapter 7 - Pattern Matching with Regular Expressions
     - [ ] Date Detection
     - [ ] Strong Password Detection
