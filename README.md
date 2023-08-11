@@ -72,4 +72,3 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [ ] Looking Busy
     - [ ] Using the Clipboard to Read a Text Field
     - [ ] Instant Messenger Bot
-    - [ ] Game-Playing Bot Tutorial
