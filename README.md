@@ -18,10 +18,10 @@ Completed Automate The Boring Stuff Practice Projects from the Book
 - [x] Chapter 6 - Manipulating Strings
     - [x] Table Printer
     - [x] Zombie Dice Bots
-- [ ] Chapter 7 - Pattern Matching with Regular Expressions
-    - [ ] Date Detection
-    - [ ] Strong Password Detection
-    - [ ] Regex Version of the strip() Method
+- [x] Chapter 7 - Pattern Matching with Regular Expressions
+    - [x] Date Detection
+    - [x] Strong Password Detection
+    - [x] Regex Version of the strip() Method
 - [ ] Chapter 8 - Input Validation
     - [ ] Sandwich Maker
     - [ ] Write Your Own Multiplication Quiz
