@@ -22,9 +22,9 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Date Detection
     - [x] Strong Password Detection
     - [x] Regex Version of the strip() Method
-- [ ] Chapter 8 - Input Validation
-    - [ ] Sandwich Maker
-    - [ ] Write Your Own Multiplication Quiz
+- [x] Chapter 8 - Input Validation
+    - [x] Sandwich Maker
+    - [x] Write Your Own Multiplication Quiz
 - [ ] Chapter 9 - Reading and Writing Files
     - [ ] Extending the Multi-Clipboard
     - [ ] Mad Libs
