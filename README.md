@@ -25,10 +25,10 @@ Completed Automate The Boring Stuff Practice Projects from the Book
 - [x] Chapter 8 - Input Validation
     - [x] Sandwich Maker
     - [x] Write Your Own Multiplication Quiz
-- [ ] Chapter 9 - Reading and Writing Files
-    - [ ] Extending the Multi-Clipboard
-    - [ ] Mad Libs
-    - [ ] Regex Search
+- [x] Chapter 9 - Reading and Writing Files
+    - [x] Extending the Multi-Clipboard
+    - [x] Mad Libs
+    - [x] Regex Search
 - [ ] Chapter 10 - Organising Files
     - [ ] Selective Copy
     - [ ] Deleting Unneeded Files
