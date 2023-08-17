@@ -34,8 +34,8 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Deleting Unneeded Files
     - [x] Filling in the Gaps
     - [x] Insert Gaps
-- [ ] Chapter 11 - Debugging
-    - [ ] Debugging Coin Toss
+- [x] Chapter 11 - Debugging
+    - [x] Debugging Coin Toss
 - [ ] Chapter 12 - Web Scraping
     - [ ] Command Line Emailer
     - [ ] Image Site Downloader
