@@ -29,10 +29,11 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Extending the Multi-Clipboard
     - [x] Mad Libs
     - [x] Regex Search
-- [ ] Chapter 10 - Organising Files
-    - [ ] Selective Copy
-    - [ ] Deleting Unneeded Files
-    - [ ] Filling in the Gaps
+- [x] Chapter 10 - Organising Files
+    - [x] Selective Copy
+    - [x] Deleting Unneeded Files
+    - [x] Filling in the Gaps
+    - [x] Insert Gaps
 - [ ] Chapter 11 - Debugging
     - [ ] Debugging Coin Toss
 - [ ] Chapter 12 - Web Scraping
