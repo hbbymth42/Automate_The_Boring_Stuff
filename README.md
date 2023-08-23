@@ -37,7 +37,6 @@ Completed Automate The Boring Stuff Practice Projects from the Book
 - [x] Chapter 11 - Debugging
     - [x] Debugging Coin Toss
 - [ ] Chapter 12 - Web Scraping
-    - [ ] Command Line Emailer
     - [ ] Image Site Downloader
     - [ ] 2048
     - [ ] Link Verification
