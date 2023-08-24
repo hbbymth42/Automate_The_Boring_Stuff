@@ -36,10 +36,10 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Insert Gaps
 - [x] Chapter 11 - Debugging
     - [x] Debugging Coin Toss
-- [ ] Chapter 12 - Web Scraping
-    - [ ] Image Site Downloader
-    - [ ] 2048
-    - [ ] Link Verification
+- [x] Chapter 12 - Web Scraping
+    - [x] Image Site Downloader
+    - [x] 2048
+    - [x] Link Verification
 - [ ] Chapter 13 - Working with Excel Spreadsheets
     - [ ] Multiplication Table Maker
     - [ ] Blank Row Inserter
