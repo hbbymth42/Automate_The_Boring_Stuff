@@ -40,12 +40,12 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Image Site Downloader
     - [x] 2048
     - [x] Link Verification
-- [ ] Chapter 13 - Working with Excel Spreadsheets
-    - [ ] Multiplication Table Maker
-    - [ ] Blank Row Inserter
-    - [ ] Spreadsheet Cell Inverter
-    - [ ] Text Files to Spreadsheet
-    - [ ] Spreadsheet to Text Files
+- [x] Chapter 13 - Working with Excel Spreadsheets
+    - [x] Multiplication Table Maker
+    - [x] Blank Row Inserter
+    - [x] Spreadsheet Cell Inverter
+    - [x] Text Files to Spreadsheet
+    - [x] Spreadsheet to Text Files
 - [ ] Chapter 14 - Working with Google Sheets
     - [ ] Downloading Google Forms Data
     - [ ] Converting Spreadsheets to Other Formats
