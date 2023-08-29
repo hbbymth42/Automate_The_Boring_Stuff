@@ -46,10 +46,10 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Spreadsheet Cell Inverter
     - [x] Text Files to Spreadsheet
     - [x] Spreadsheet to Text Files
-- [ ] Chapter 14 - Working with Google Sheets
-    - [ ] Downloading Google Forms Data
-    - [ ] Converting Spreadsheets to Other Formats
-    - [ ] Finding Mistakes in a Spreadsheet
+- [x] Chapter 14 - Working with Google Sheets
+    - [x] Downloading Google Forms Data
+    - [x] Converting Spreadsheets to Other Formats
+    - [x] Finding Mistakes in a Spreadsheet
 - [ ] Chapter 15 - Working with PDF and Word Documents
     - [ ] PDF Paranoia
     - [ ] Custom Invitations as Word Documents
