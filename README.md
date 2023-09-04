@@ -51,8 +51,8 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Converting Spreadsheets to Other Formats
     - [x] Finding Mistakes in a Spreadsheet
 - [ ] Chapter 15 - Working with PDF and Word Documents
-    - [ ] PDF Paranoia
-    - [ ] Custom Invitations as Word Documents
+    - [x] PDF Paranoia
+    - [x] Custom Invitations as Word Documents
     - [ ] Brute-Force PDF Password Breaker
 - [ ] Chapter 16 - Working with CSV Files and JSON Data
     - [ ] Excel-to-CSV Converter
