@@ -53,8 +53,8 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] PDF Paranoia
     - [x] Custom Invitations as Word Documents
     - [x] Brute-Force PDF Password Breaker
-- [ ] Chapter 16 - Working with CSV Files and JSON Data
-    - [ ] Excel-to-CSV Converter
+- [x] Chapter 16 - Working with CSV Files and JSON Data
+    - [x] Excel-to-CSV Converter
 - [ ] Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs
     - [ ] Prettified Stopwatch
     - [ ] Scheduled Web Comic Downloader
