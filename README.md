@@ -61,7 +61,6 @@ Completed Automate The Boring Stuff Practice Projects from the Book
 - [ ] Chapter 18 - Sending Email and Text Messages
     - [ ] Random Chore Assignment Emailer
     - [ ] Umbrella Reminder
-    - [ ] Auto Unsubscriber
 - [ ] Chapter 19 - Manipulating Images
     - [ ] Extending and Fixing the Chapter Project Programs
     - [ ] Identifying Photo Folders on the Hard Drive
