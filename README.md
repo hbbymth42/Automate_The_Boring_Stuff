@@ -55,9 +55,9 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Brute-Force PDF Password Breaker
 - [x] Chapter 16 - Working with CSV Files and JSON Data
     - [x] Excel-to-CSV Converter
-- [ ] Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs
-    - [ ] Prettified Stopwatch
-    - [ ] Scheduled Web Comic Downloader
+- [x] Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs
+    - [x] Prettified Stopwatch
+    - [x] Scheduled Web Comic Downloader
 - [ ] Chapter 18 - Sending Email and Text Messages
     - [ ] Random Chore Assignment Emailer
     - [ ] Umbrella Reminder
