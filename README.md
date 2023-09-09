@@ -58,9 +58,9 @@ Completed Automate The Boring Stuff Practice Projects from the Book
 - [x] Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs
     - [x] Prettified Stopwatch
     - [x] Scheduled Web Comic Downloader
-- [ ] Chapter 18 - Sending Email and Text Messages
-    - [ ] Random Chore Assignment Emailer
-    - [ ] Umbrella Reminder
+- [x] Chapter 18 - Sending Email and Text Messages
+    - [x] Random Chore Assignment Emailer
+    - [x] Umbrella Reminder
 - [ ] Chapter 19 - Manipulating Images
     - [ ] Extending and Fixing the Chapter Project Programs
     - [ ] Identifying Photo Folders on the Hard Drive
