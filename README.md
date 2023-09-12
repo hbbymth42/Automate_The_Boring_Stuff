@@ -1,70 +1,70 @@
 # Automate The Boring Stuff
 
 ## Practice Projects
-Completed Automate The Boring Stuff Practice Projects from the Book
+Completed Automate The Boring Stuff Practice Projects from the [Book](https://automatetheboringstuff.com/)
 
 ### Completed Practice Projects
-- [x] Chapter 3 - Functions
+- [x] [Chapter 3 - Functions](https://automatetheboringstuff.com/2e/chapter3/)
     - [x] The Collatz Sequence
     - [x] Input Validation (Addition to The Collatz Sequence Project)
-- [x] Chapter 4 - Lists
+- [x] [Chapter 4 - Lists](https://automatetheboringstuff.com/2e/chapter4/)
     - [x] Comma Code
     - [x] Coin Flip Streaks
     - [x] Character Picture Grid
-- [x] Chapter 5 - Dictionaries and Structuring Data
+- [x] [Chapter 5 - Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
     - [x] Chess Dictionary Validator
     - [x] Fantasy Game Inventory 
     - [x] List to Dictionary Function for Fantasy Game Inventory (Addition to Fantasy Game Inventory Project)
-- [x] Chapter 6 - Manipulating Strings
+- [x] [Chapter 6 - Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
     - [x] Table Printer
-- [x] Chapter 7 - Pattern Matching with Regular Expressions
+- [x] [Chapter 7 - Pattern Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
     - [x] Date Detection
     - [x] Strong Password Detection
     - [x] Regex Version of the strip() Method
-- [x] Chapter 8 - Input Validation
+- [x] [Chapter 8 - Input Validation](https://automatetheboringstuff.com/2e/chapter8/)
     - [x] Sandwich Maker
     - [x] Write Your Own Multiplication Quiz
-- [x] Chapter 9 - Reading and Writing Files
+- [x] [Chapter 9 - Reading and Writing Files](https://automatetheboringstuff.com/2e/chapter9/)
     - [x] Extending the Multi-Clipboard
     - [x] Mad Libs
     - [x] Regex Search
-- [x] Chapter 10 - Organising Files
+- [x] [Chapter 10 - Organising Files](https://automatetheboringstuff.com/2e/chapter10/)
     - [x] Selective Copy
     - [x] Deleting Unneeded Files
     - [x] Filling in the Gaps
     - [x] Insert Gaps
-- [x] Chapter 11 - Debugging
+- [x] [Chapter 11 - Debugging](https://automatetheboringstuff.com/2e/chapter11/)
     - [x] Debugging Coin Toss
-- [x] Chapter 12 - Web Scraping
+- [x] [Chapter 12 - Web Scraping](https://automatetheboringstuff.com/2e/chapter12/)
     - [x] Image Site Downloader
     - [x] 2048
     - [x] Link Verification
-- [x] Chapter 13 - Working with Excel Spreadsheets
+- [x] [Chapter 13 - Working with Excel Spreadsheets](https://automatetheboringstuff.com/2e/chapter13/)
     - [x] Multiplication Table Maker
     - [x] Blank Row Inserter
     - [x] Spreadsheet Cell Inverter
     - [x] Text Files to Spreadsheet
     - [x] Spreadsheet to Text Files
-- [x] Chapter 14 - Working with Google Sheets
+- [x] [Chapter 14 - Working with Google Sheets](https://automatetheboringstuff.com/2e/chapter14/)
     - [x] Downloading Google Forms Data
     - [x] Converting Spreadsheets to Other Formats
     - [x] Finding Mistakes in a Spreadsheet
-- [x] Chapter 15 - Working with PDF and Word Documents
+- [x] [Chapter 15 - Working with PDF and Word Documents](https://automatetheboringstuff.com/2e/chapter15/)
     - [x] PDF Paranoia
     - [x] Custom Invitations as Word Documents
     - [x] Brute-Force PDF Password Breaker
-- [x] Chapter 16 - Working with CSV Files and JSON Data
+- [x] [Chapter 16 - Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
     - [x] Excel-to-CSV Converter
-- [x] Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs
+- [x] [Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs](https://automatetheboringstuff.com/2e/chapter17/)
     - [x] Prettified Stopwatch
     - [x] Scheduled Web Comic Downloader
-- [x] Chapter 18 - Sending Email and Text Messages
+- [x] [Chapter 18 - Sending Email and Text Messages](https://automatetheboringstuff.com/2e/chapter18/)
     - [x] Random Chore Assignment Emailer
     - [x] Umbrella Reminder
-- [x] Chapter 19 - Manipulating Images
+- [x] [Chapter 19 - Manipulating Images](https://automatetheboringstuff.com/2e/chapter19/)
     - [x] Extending and Fixing the Chapter Project Programs
     - [x] Identifying Photo Folders on the Hard Drive
     - [x] Custom Seating Cards
-- [x] Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation
+- [x] [Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation](https://automatetheboringstuff.com/2e/chapter20/)
     - [x] Looking Busy
     - [x] Using the Clipboard to Read a Text Field
