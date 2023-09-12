@@ -65,6 +65,6 @@ Completed Automate The Boring Stuff Practice Projects from the Book
     - [x] Extending and Fixing the Chapter Project Programs
     - [x] Identifying Photo Folders on the Hard Drive
     - [x] Custom Seating Cards
-- [ ] Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation
-    - [ ] Looking Busy
-    - [ ] Using the Clipboard to Read a Text Field
+- [x] Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation
+    - [x] Looking Busy
+    - [x] Using the Clipboard to Read a Text Field
