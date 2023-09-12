@@ -61,10 +61,10 @@ Completed Automate The Boring Stuff Practice Projects from the Book
 - [x] Chapter 18 - Sending Email and Text Messages
     - [x] Random Chore Assignment Emailer
     - [x] Umbrella Reminder
-- [ ] Chapter 19 - Manipulating Images
-    - [ ] Extending and Fixing the Chapter Project Programs
-    - [ ] Identifying Photo Folders on the Hard Drive
-    - [ ] Custom Seating Cards
+- [x] Chapter 19 - Manipulating Images
+    - [x] Extending and Fixing the Chapter Project Programs
+    - [x] Identifying Photo Folders on the Hard Drive
+    - [x] Custom Seating Cards
 - [ ] Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation
     - [ ] Looking Busy
     - [ ] Using the Clipboard to Read a Text Field
