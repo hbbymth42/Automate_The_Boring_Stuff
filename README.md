@@ -5,66 +5,67 @@ Completed Automate The Boring Stuff Practice Projects from the [Book](https://au
 
 ### Completed Practice Projects
 - [x] [Chapter 3 - Functions](https://automatetheboringstuff.com/2e/chapter3/)
-    - [x] The Collatz Sequence
-    - [x] Input Validation (Addition to The Collatz Sequence Project)
+    - [x] [The Collatz Sequence](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-03/practice-projects/collatzSequence.py)
+    - [x] [Input Validation (Addition to The Collatz Sequence Project)](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-03/practice-projects/collatzSequence.py)
 - [x] [Chapter 4 - Lists](https://automatetheboringstuff.com/2e/chapter4/)
-    - [x] Comma Code
-    - [x] Coin Flip Streaks
-    - [x] Character Picture Grid
+    - [x] [Comma Code](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-04/practice-projects/commaCode.py)
+    - [x] [Coin Flip Streaks](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-04/practice-projects/coinFlipStreaks.py)
+    - [x] [Character Picture Grid](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-04/practice-projects/characterPictureGrid.py)
 - [x] [Chapter 5 - Dictionaries and Structuring Data](https://automatetheboringstuff.com/2e/chapter5/)
-    - [x] Chess Dictionary Validator
-    - [x] Fantasy Game Inventory 
-    - [x] List to Dictionary Function for Fantasy Game Inventory (Addition to Fantasy Game Inventory Project)
+    - [x] [Chess Dictionary Validator](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-05/practice-projects/chessDictionaryValidator.py)
+    - [x] [Fantasy Game Inventory](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-05/practice-projects/fantasyGameInventory.py)
+    - [x] [List to Dictionary Function for Fantasy Game Inventory (Addition to Fantasy Game Inventory Project)](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-05/practice-projects/fantasyGameInventory.py)
 - [x] [Chapter 6 - Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
-    - [x] Table Printer
+    - [x] [Table Printer](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-06/practice-projects/tablePrinter.py)
 - [x] [Chapter 7 - Pattern Matching with Regular Expressions](https://automatetheboringstuff.com/2e/chapter7/)
-    - [x] Date Detection
-    - [x] Strong Password Detection
-    - [x] Regex Version of the strip() Method
+    - [x] [Date Detection](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-07/practice-projects/dateDetection.py)
+    - [x] [Strong Password Detection](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-07/practice-projects/strongPasswordDetection.py)
+    - [x] [Regex Version of the strip() Method](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-07/practice-projects/regexStripMethod.py)
 - [x] [Chapter 8 - Input Validation](https://automatetheboringstuff.com/2e/chapter8/)
-    - [x] Sandwich Maker
-    - [x] Write Your Own Multiplication Quiz
+    - [x] [Sandwich Maker](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-08/practice-projects/sandwichMaker.py)
+    - [x] [Write Your Own Multiplication Quiz](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-08/practice-projects/myMultiplicationQuiz.py)
 - [x] [Chapter 9 - Reading and Writing Files](https://automatetheboringstuff.com/2e/chapter9/)
-    - [x] Extending the Multi-Clipboard
-    - [x] Mad Libs
-    - [x] Regex Search
+    - [x] [Extending the Multi-Clipboard](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-09/practice-projects/extendingmcb.pyw)
+    - [x] [Mad Libs](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-09/practice-projects/madLibs.py)
+    - [x] [Regex Search](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-09/practice-projects/regexSearch.py)
 - [x] [Chapter 10 - Organising Files](https://automatetheboringstuff.com/2e/chapter10/)
-    - [x] Selective Copy
-    - [x] Deleting Unneeded Files
-    - [x] Filling in the Gaps
-    - [x] Insert Gaps
+    - [x] [Selective Copy](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-10/practice-projects/selectiveCopy.py)
+    - [x] [Deleting Unneeded Files](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-10/practice-projects/deletingUnneededFiles.py)
+    - [x] [Filling in the Gaps](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-10/practice-projects/fillGaps.py)
+    - [x] [Insert Gaps](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-10/practice-projects/insertGaps.py)
 - [x] [Chapter 11 - Debugging](https://automatetheboringstuff.com/2e/chapter11/)
-    - [x] Debugging Coin Toss
+    - [x] [Debugging Coin Toss](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-11/practice-projects/debuggingCoinToss.py)
 - [x] [Chapter 12 - Web Scraping](https://automatetheboringstuff.com/2e/chapter12/)
-    - [x] Image Site Downloader
-    - [x] 2048
-    - [x] Link Verification
+    - [x] [Image Site Downloader](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-12/practice-projects/imageSiteDownloader.py)
+    - [x] [2048](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-12/practice-projects/2048.py)
+    - [x] [Link Verification](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-12/practice-projects/linkVerification.py)
 - [x] [Chapter 13 - Working with Excel Spreadsheets](https://automatetheboringstuff.com/2e/chapter13/)
-    - [x] Multiplication Table Maker
-    - [x] Blank Row Inserter
-    - [x] Spreadsheet Cell Inverter
-    - [x] Text Files to Spreadsheet
-    - [x] Spreadsheet to Text Files
+    - [x] [Multiplication Table Maker](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-13/practice-projects/multiplicationTable.py)
+    - [x] [Blank Row Inserter](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-13/practice-projects/blankRowInserter.py)
+    - [x] [Spreadsheet Cell Inverter](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-13/practice-projects/spreadsheetCellInverter.py)
+    - [x] [Text Files to Spreadsheet](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-13/practice-projects/txtToSpreadsheet.py)
+    - [x] [Spreadsheet to Text Files](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-13/practice-projects/spreadsheetToTxt.py)
 - [x] [Chapter 14 - Working with Google Sheets](https://automatetheboringstuff.com/2e/chapter14/)
-    - [x] Downloading Google Forms Data
-    - [x] Converting Spreadsheets to Other Formats
-    - [x] Finding Mistakes in a Spreadsheet
+    - [x] [Downloading Google Forms Data](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-14/practice-projects/downloadingGoogleFormsData.py)
+    - [x] [Converting Spreadsheets to Other Formats](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-14/practice-projects/convertSpreadsheetFormat.py)
+    - [x] [Finding Mistakes in a Spreadsheet](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-14/practice-projects/findingMistakes.py)
 - [x] [Chapter 15 - Working with PDF and Word Documents](https://automatetheboringstuff.com/2e/chapter15/)
-    - [x] PDF Paranoia
-    - [x] Custom Invitations as Word Documents
-    - [x] Brute-Force PDF Password Breaker
+    - [x] [PDF Paranoia - Encrypt](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-15/practice-projects/pdfParanoiaEncrypt.py)
+    - [x] [PDF Paranoia - Decrypt](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-15/practice-projects/pdfParanoiaDecrypt.py)
+    - [x] [Custom Invitations as Word Documents](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-15/practice-projects/customInvitations.py)
+    - [x] [Brute-Force PDF Password Breaker](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-15/practice-projects/bruteForcePasswordBreaker.py)
 - [x] [Chapter 16 - Working with CSV Files and JSON Data](https://automatetheboringstuff.com/2e/chapter16/)
-    - [x] Excel-to-CSV Converter
+    - [x] [Excel-to-CSV Converter](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-16/practice-projects/excelToCSVConverter.py)
 - [x] [Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs](https://automatetheboringstuff.com/2e/chapter17/)
-    - [x] Prettified Stopwatch
-    - [x] Scheduled Web Comic Downloader
+    - [x] [Prettified Stopwatch](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-17/practice-projects/prettifiedStopwatch.py)
+    - [x] [Scheduled Web Comic Downloader](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-17/practice-projects/scheduledWebComicDownloader.py)
 - [x] [Chapter 18 - Sending Email and Text Messages](https://automatetheboringstuff.com/2e/chapter18/)
-    - [x] Random Chore Assignment Emailer
-    - [x] Umbrella Reminder
+    - [x] [Random Chore Assignment Emailer](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-18/practice-projects/randomChoreAssignmentEmailer.py)
+    - [x] [Umbrella Reminder](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-18/practice-projects/umbrellaReminder.py)
 - [x] [Chapter 19 - Manipulating Images](https://automatetheboringstuff.com/2e/chapter19/)
-    - [x] Extending and Fixing the Chapter Project Programs
-    - [x] Identifying Photo Folders on the Hard Drive
-    - [x] Custom Seating Cards
+    - [x] [Extending and Fixing the Chapter Project Programs](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-19/practice-projects/resizeAndAddLogoFixed.py)
+    - [x] [Identifying Photo Folders on the Hard Drive](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-19/practice-projects/photoFoldersOnDrive.py)
+    - [x] [Custom Seating Cards](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-19/practice-projects/customSeatingCards.py)
 - [x] [Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation](https://automatetheboringstuff.com/2e/chapter20/)
-    - [x] Looking Busy
-    - [x] Using the Clipboard to Read a Text Field
+    - [x] [Looking Busy](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-20/practice-projects/lookingBusy.py)
+    - [x] [Using the Clipboard to Read a Text Field](https://github.com/hbbymth42/Automate_The_Boring_Stuff/blob/main/chapter-20/practice-projects/clipboardToReadTextField.py)
